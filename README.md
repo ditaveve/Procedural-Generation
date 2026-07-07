@@ -26,6 +26,8 @@ Open `index.html` in a browser (requires an internet connection to load the p5.j
 
 Click anywhere on the canvas to generate a new terrain map.
 
+Alternatively, you can access the live demo here: https://ditaveve.github.io/Procedural-Generation/
+
 ## Customization
 
 You can tweak the look of the terrain by adjusting the constants in `terrain.js`:
